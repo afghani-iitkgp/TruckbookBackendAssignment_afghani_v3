@@ -24,7 +24,8 @@ Go to project directory and then run:
 
 **Create new docker image for the project**
 
-1) $ `docker build -t <container_image_name> <destination_dir>` for e.g. `docker built -t truckbookDocker-v3 ./`
+1) $ `docker build -t <container_image_name> <destination_dir>` 
+      for e.g. `docker built -t truckbook-docker-image ./`
 
 2) $ `docker image`s # To check running docker images
 
