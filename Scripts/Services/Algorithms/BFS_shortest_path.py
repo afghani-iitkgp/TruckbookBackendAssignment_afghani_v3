@@ -72,10 +72,19 @@ class CalculateShortestPath:
 
             # Check corner cases:
             if src != dest:
-
+                # Creating adjacency graph and list of stations.
                 self.create_graph()
 
-                if ( (src in self.nodes) and (dest in self.nodes)) :
+                if ( (src in self.nodes) or (src in const.intersections_list) ) and ( (dest in self.nodes) or (dest in const.intersections_list) ):
+
+                    # To check 'source' is a junction or not, and if it is a junction then suffix '(intersection)' to it.
+                    if src in const.intersections_list:
+                        src += " (intersection)"
+
+                    # To check 'destination' is a junction or not, and if it is a junction then suffix '(intersection)' to it.
+                    if dest in const.intersections_list:
+                        dest += " (intersection)"
+
                     distance, predecessor = self.bfs_traversal_for_distance_calculation(src, dest)
 
                     path_src_to_dest = []
