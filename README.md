@@ -5,8 +5,11 @@ Namma Metro network. The metro connects all prominent places in the city. The me
 
 **Objective:**
 Develop RESTful APIs using that can be utilized by mobile and web applications. The applications will satisfy the following user stories:
+
 ● User should be able to login or sign up using his phone number (no OTP or verification code required).
+
 ● User should be able to see the list of all stations for each Line.
+
 ● User should be able to choose starting and ending stations, to get the cost and minimum possible time of journey. 
 
 
