@@ -14,4 +14,4 @@ database_dir_path = './Data/NammaMetro'
 LineWiseStations_dir_path = './Data/NammaMetro/LineWiseStations'
 
 
-intersections_list = ['mahatma gandhi road', 'rashtriya vidhyalaya road', 'krishnaraja puram', 'jayadeva', 'nadaprabhu kempe gowda majestic', 'nagawara', 'central silk board']
+list_of_intersection_stations = ['mahatma gandhi road', 'rashtriya vidhyalaya road', 'krishnaraja puram', 'jayadeva', 'nadaprabhu kempe gowda majestic', 'nagawara', 'central silk board']
