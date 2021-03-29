@@ -1,0 +1,1534 @@
+{
+    "Agara Lake": [
+        {
+            "line": "blueline",
+            "station_node": "Ibblur",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Venkatapura",
+            "weight": 4.0
+        }
+    ],
+    "Airport City": [
+        {
+            "line": "blueline",
+            "station_node": "KIA Terminals",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Doddaljala",
+            "weight": 4.0
+        }
+    ],
+    "Anjanapura": [
+        {
+            "line": "greenline",
+            "station_node": "Thalaghattapura",
+            "weight": 4.0
+        }
+    ],
+    "Attiguppe": [
+        {
+            "line": "purpleline",
+            "station_node": "Deepanjali Nagar",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Vijayanagar",
+            "weight": 4.0
+        }
+    ],
+    "BSG Hosahalli": [
+        {
+            "line": "purpleline",
+            "station_node": "Vijayanagar",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Magadi Road",
+            "weight": 4.0
+        }
+    ],
+    "BTM Layout": [
+        {
+            "line": "yellowline",
+            "station_node": "Jayadeva (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Central Silk Board (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Bagalur Cross": [
+        {
+            "line": "blueline",
+            "station_node": "Bettahalasuru",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Yelahanka",
+            "weight": 4.0
+        }
+    ],
+    "Baiyyappanahalli": [
+        {
+            "line": "purpleline",
+            "station_node": "Swami Vivekananda Road",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Benniganahalli",
+            "weight": 4.0
+        }
+    ],
+    "Banashankari": [
+        {
+            "line": "greenline",
+            "station_node": "Rashtriya Vidhyalaya Road (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Jayaprakash Nagar",
+            "weight": 4.0
+        }
+    ],
+    "Bellandur": [
+        {
+            "line": "blueline",
+            "station_node": "Devarabeesanahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Ibblur",
+            "weight": 4.0
+        }
+    ],
+    "Benniganahalli": [
+        {
+            "line": "purpleline",
+            "station_node": "Baiyyappanahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Krishnaraja Puram (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Beratena Agrahara": [
+        {
+            "line": "yellowline",
+            "station_node": "HosaRoad",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Electronic City",
+            "weight": 4.0
+        }
+    ],
+    "Bettahalasuru": [
+        {
+            "line": "blueline",
+            "station_node": "Doddaljala",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Bagalur Cross",
+            "weight": 4.0
+        }
+    ],
+    "Bommanahalli": [
+        {
+            "line": "yellowline",
+            "station_node": "Central Silk Board (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Hongasandra",
+            "weight": 4.0
+        }
+    ],
+    "Bommasandra": [
+        {
+            "line": "yellowline",
+            "station_node": "Hebbagodi",
+            "weight": 4.0
+        }
+    ],
+    "Cantonment": [
+        {
+            "line": "pinkline",
+            "station_node": "Pottery Town",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Shivajinagar",
+            "weight": 4.0
+        }
+    ],
+    "Central Silk Board (intersection)": [
+        {
+            "line": "blueline",
+            "station_node": "Venkatapura",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "BTM Layout",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Bommanahalli",
+            "weight": 4.0
+        }
+    ],
+    "Challaghatta": [
+        {
+            "line": "purpleline",
+            "station_node": "Kengeri Bus Terminal",
+            "weight": 4.0
+        }
+    ],
+    "Channasandra": [
+        {
+            "line": "purpleline",
+            "station_node": "Kadugodi Industrial Area",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Whitefield",
+            "weight": 4.0
+        }
+    ],
+    "Chickpete": [
+        {
+            "line": "greenline",
+            "station_node": "Nadaprabhu Kempe Gowda Majestic (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Krishna Rajendra Market",
+            "weight": 4.0
+        }
+    ],
+    "Chikkabidirakallu": [
+        {
+            "line": "greenline",
+            "station_node": "Madavara",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Manjunath Nagar",
+            "weight": 4.0
+        }
+    ],
+    "Cubbon Park": [
+        {
+            "line": "purpleline",
+            "station_node": "Dr. B R Ambedkar Vidhana Soudha",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Mahatma Gandhi Road (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "DRDO - Sports Complex": [
+        {
+            "line": "blueline",
+            "station_node": "SaraswathiNagar",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Doddanekkundi",
+            "weight": 4.0
+        }
+    ],
+    "Dairy Circle": [
+        {
+            "line": "pinkline",
+            "station_node": "Lakkasandra",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Tavarekere",
+            "weight": 4.0
+        }
+    ],
+    "Dasarahalli": [
+        {
+            "line": "greenline",
+            "station_node": "Nagasandra",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Jalahalli",
+            "weight": 4.0
+        }
+    ],
+    "Deepanjali Nagar": [
+        {
+            "line": "purpleline",
+            "station_node": "Mysuru Road",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Attiguppe",
+            "weight": 4.0
+        }
+    ],
+    "Devarabeesanahalli": [
+        {
+            "line": "blueline",
+            "station_node": "Kadubeesanahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Bellandur",
+            "weight": 4.0
+        }
+    ],
+    "Doddakallasandra": [
+        {
+            "line": "greenline",
+            "station_node": "Konanakunte Cross",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Vajrahalli",
+            "weight": 4.0
+        }
+    ],
+    "Doddaljala": [
+        {
+            "line": "blueline",
+            "station_node": "Airport City",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Bettahalasuru",
+            "weight": 4.0
+        }
+    ],
+    "Doddanekkundi": [
+        {
+            "line": "blueline",
+            "station_node": "DRDO - Sports Complex",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "ISRO",
+            "weight": 4.0
+        }
+    ],
+    "Dr. B R Ambedkar Vidhana Soudha": [
+        {
+            "line": "purpleline",
+            "station_node": "Sir M Visveswaraya Central College",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Cubbon Park",
+            "weight": 4.0
+        }
+    ],
+    "Electronic City": [
+        {
+            "line": "yellowline",
+            "station_node": "Beratena Agrahara",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Infosys Foundation Konappana Agrahara",
+            "weight": 4.0
+        }
+    ],
+    "Garudacharpalya": [
+        {
+            "line": "purpleline",
+            "station_node": "Mahadevpura",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Hoodi Junction",
+            "weight": 4.0
+        }
+    ],
+    "Goraguntepalya": [
+        {
+            "line": "greenline",
+            "station_node": "Peenya",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Yeshwantpur",
+            "weight": 4.0
+        }
+    ],
+    "HBR Layout": [
+        {
+            "line": "blueline",
+            "station_node": "Nagawara (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "KalyanNagar",
+            "weight": 4.0
+        }
+    ],
+    "HRBR Layout": [
+        {
+            "line": "blueline",
+            "station_node": "KalyanNagar",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Horamavu",
+            "weight": 4.0
+        }
+    ],
+    "Halasuru": [
+        {
+            "line": "purpleline",
+            "station_node": "Trinity",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Indiranagar",
+            "weight": 4.0
+        }
+    ],
+    "Hebbagodi": [
+        {
+            "line": "yellowline",
+            "station_node": "HuskurRoad",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Bommasandra",
+            "weight": 4.0
+        }
+    ],
+    "Hebbal": [
+        {
+            "line": "blueline",
+            "station_node": "Kodigehalli",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Kempapura",
+            "weight": 4.0
+        }
+    ],
+    "Hongasandra": [
+        {
+            "line": "yellowline",
+            "station_node": "Bommanahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Kudlu gate",
+            "weight": 4.0
+        }
+    ],
+    "Hoodi Junction": [
+        {
+            "line": "purpleline",
+            "station_node": "Garudacharpalya",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Sitarama Palya",
+            "weight": 4.0
+        }
+    ],
+    "Horamavu": [
+        {
+            "line": "blueline",
+            "station_node": "HRBR Layout",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Kasturi Nagar",
+            "weight": 4.0
+        }
+    ],
+    "HosaRoad": [
+        {
+            "line": "yellowline",
+            "station_node": "Singasandra",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Beratena Agrahara",
+            "weight": 4.0
+        }
+    ],
+    "Hulimavu": [
+        {
+            "line": "pinkline",
+            "station_node": "IIMB",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Kalena Agrahara",
+            "weight": 4.0
+        }
+    ],
+    "HuskurRoad": [
+        {
+            "line": "yellowline",
+            "station_node": "Infosys Foundation Konappana Agrahara",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Hebbagodi",
+            "weight": 4.0
+        }
+    ],
+    "IIMB": [
+        {
+            "line": "pinkline",
+            "station_node": "JP Nagar 4th Phase",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Hulimavu",
+            "weight": 4.0
+        }
+    ],
+    "ISRO": [
+        {
+            "line": "blueline",
+            "station_node": "Doddanekkundi",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Marathahalli",
+            "weight": 4.0
+        }
+    ],
+    "Ibblur": [
+        {
+            "line": "blueline",
+            "station_node": "Bellandur",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Agara Lake",
+            "weight": 4.0
+        }
+    ],
+    "Indiranagar": [
+        {
+            "line": "purpleline",
+            "station_node": "Halasuru",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Swami Vivekananda Road",
+            "weight": 4.0
+        }
+    ],
+    "Infosys Foundation Konappana Agrahara": [
+        {
+            "line": "yellowline",
+            "station_node": "Electronic City",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "HuskurRoad",
+            "weight": 4.0
+        }
+    ],
+    "JP Nagar 4th Phase": [
+        {
+            "line": "pinkline",
+            "station_node": "Jayadeva (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "IIMB",
+            "weight": 4.0
+        }
+    ],
+    "Jakkuru Cross": [
+        {
+            "line": "blueline",
+            "station_node": "Yelahanka",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Kodigehalli",
+            "weight": 4.0
+        }
+    ],
+    "Jalahalli": [
+        {
+            "line": "greenline",
+            "station_node": "Dasarahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Peenya Industry",
+            "weight": 4.0
+        }
+    ],
+    "Jayadeva (intersection)": [
+        {
+            "line": "yellowline",
+            "station_node": "Ragigudda",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "BTM Layout",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Tavarekere",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "JP Nagar 4th Phase",
+            "weight": 4.0
+        }
+    ],
+    "Jayanagar": [
+        {
+            "line": "greenline",
+            "station_node": "South End Circle",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Rashtriya Vidhyalaya Road (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Jayaprakash Nagar": [
+        {
+            "line": "greenline",
+            "station_node": "Banashankari",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Yelachenahalli",
+            "weight": 4.0
+        }
+    ],
+    "Jnanabharathi": [
+        {
+            "line": "purpleline",
+            "station_node": "Pattanagere",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Rajarajeshwari Nagar",
+            "weight": 4.0
+        }
+    ],
+    "KIA Terminals": [
+        {
+            "line": "blueline",
+            "station_node": "Airport City",
+            "weight": 4.0
+        }
+    ],
+    "KSR City Railway Station": [
+        {
+            "line": "purpleline",
+            "station_node": "Magadi Road",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Nadaprabhu Kempe Gowda Majestic (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Kadubeesanahalli": [
+        {
+            "line": "blueline",
+            "station_node": "Marathahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Devarabeesanahalli",
+            "weight": 4.0
+        }
+    ],
+    "Kadugodi Industrial Area": [
+        {
+            "line": "purpleline",
+            "station_node": "Pattanduru Agrahara",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Channasandra",
+            "weight": 4.0
+        }
+    ],
+    "Kadugondanahalli": [
+        {
+            "line": "pinkline",
+            "station_node": "Nagawara (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Venkateshapura",
+            "weight": 4.0
+        }
+    ],
+    "Kalena Agrahara": [
+        {
+            "line": "pinkline",
+            "station_node": "Hulimavu",
+            "weight": 4.0
+        }
+    ],
+    "KalyanNagar": [
+        {
+            "line": "blueline",
+            "station_node": "HBR Layout",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "HRBR Layout",
+            "weight": 4.0
+        }
+    ],
+    "Kasturi Nagar": [
+        {
+            "line": "blueline",
+            "station_node": "Horamavu",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Krishnaraja Puram (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Kempapura": [
+        {
+            "line": "blueline",
+            "station_node": "Hebbal",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Veeranna Palya",
+            "weight": 4.0
+        }
+    ],
+    "Kengeri Bus Terminal": [
+        {
+            "line": "purpleline",
+            "station_node": "Challaghatta",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Mailasandra",
+            "weight": 4.0
+        }
+    ],
+    "Kodigehalli": [
+        {
+            "line": "blueline",
+            "station_node": "Jakkuru Cross",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Hebbal",
+            "weight": 4.0
+        }
+    ],
+    "Konanakunte Cross": [
+        {
+            "line": "greenline",
+            "station_node": "Yelachenahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Doddakallasandra",
+            "weight": 4.0
+        }
+    ],
+    "Krishna Rajendra Market": [
+        {
+            "line": "greenline",
+            "station_node": "Chickpete",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "National College",
+            "weight": 4.0
+        }
+    ],
+    "Krishnaraja Puram (intersection)": [
+        {
+            "line": "blueline",
+            "station_node": "Kasturi Nagar",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "SaraswathiNagar",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Benniganahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Mahadevpura",
+            "weight": 4.0
+        }
+    ],
+    "Kudlu gate": [
+        {
+            "line": "yellowline",
+            "station_node": "Hongasandra",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Singasandra",
+            "weight": 4.0
+        }
+    ],
+    "Kunalahalli": [
+        {
+            "line": "purpleline",
+            "station_node": "Sitarama Palya",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Nallurahalli",
+            "weight": 4.0
+        }
+    ],
+    "Kuvempu Road": [
+        {
+            "line": "greenline",
+            "station_node": "Rajajinagar",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Srirampura",
+            "weight": 4.0
+        }
+    ],
+    "Lakkasandra": [
+        {
+            "line": "pinkline",
+            "station_node": "Langford Town",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Dairy Circle",
+            "weight": 4.0
+        }
+    ],
+    "Lalbagh": [
+        {
+            "line": "greenline",
+            "station_node": "National College",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "South End Circle",
+            "weight": 4.0
+        }
+    ],
+    "Langford Town": [
+        {
+            "line": "pinkline",
+            "station_node": "Rashtriya Military School",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Lakkasandra",
+            "weight": 4.0
+        }
+    ],
+    "Madavara": [
+        {
+            "line": "greenline",
+            "station_node": "Chikkabidirakallu",
+            "weight": 4.0
+        }
+    ],
+    "Magadi Road": [
+        {
+            "line": "purpleline",
+            "station_node": "BSG Hosahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "KSR City Railway Station",
+            "weight": 4.0
+        }
+    ],
+    "Mahadevpura": [
+        {
+            "line": "purpleline",
+            "station_node": "Krishnaraja Puram (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Garudacharpalya",
+            "weight": 4.0
+        }
+    ],
+    "Mahalaxmi": [
+        {
+            "line": "greenline",
+            "station_node": "Sandal Soap Factory",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Rajajinagar",
+            "weight": 4.0
+        }
+    ],
+    "Mahatma Gandhi Road (intersection)": [
+        {
+            "line": "purpleline",
+            "station_node": "Cubbon Park",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Trinity",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Shivajinagar",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Rashtriya Military School",
+            "weight": 4.0
+        }
+    ],
+    "Mailasandra": [
+        {
+            "line": "purpleline",
+            "station_node": "Kengeri Bus Terminal",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Pattanagere",
+            "weight": 4.0
+        }
+    ],
+    "Manjunath Nagar": [
+        {
+            "line": "greenline",
+            "station_node": "Chikkabidirakallu",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Nagasandra",
+            "weight": 4.0
+        }
+    ],
+    "Mantri Square Sampige Road": [
+        {
+            "line": "greenline",
+            "station_node": "Srirampura",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Nadaprabhu Kempe Gowda Majestic (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Marathahalli": [
+        {
+            "line": "blueline",
+            "station_node": "ISRO",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Kadubeesanahalli",
+            "weight": 4.0
+        }
+    ],
+    "Mysuru Road": [
+        {
+            "line": "purpleline",
+            "station_node": "Nayandahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Deepanjali Nagar",
+            "weight": 4.0
+        }
+    ],
+    "Nadaprabhu Kempe Gowda Majestic (intersection)": [
+        {
+            "line": "purpleline",
+            "station_node": "KSR City Railway Station",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Sir M Visveswaraya Central College",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Mantri Square Sampige Road",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Chickpete",
+            "weight": 4.0
+        }
+    ],
+    "Nagasandra": [
+        {
+            "line": "greenline",
+            "station_node": "Manjunath Nagar",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Dasarahalli",
+            "weight": 4.0
+        }
+    ],
+    "Nagawara (intersection)": [
+        {
+            "line": "blueline",
+            "station_node": "Veeranna Palya",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "HBR Layout",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Kadugondanahalli",
+            "weight": 4.0
+        }
+    ],
+    "Nallurahalli": [
+        {
+            "line": "purpleline",
+            "station_node": "Kunalahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Sadaramangala",
+            "weight": 4.0
+        }
+    ],
+    "National College": [
+        {
+            "line": "greenline",
+            "station_node": "Krishna Rajendra Market",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Lalbagh",
+            "weight": 4.0
+        }
+    ],
+    "Nayandahalli": [
+        {
+            "line": "purpleline",
+            "station_node": "Rajarajeshwari Nagar",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Mysuru Road",
+            "weight": 4.0
+        }
+    ],
+    "Pattanagere": [
+        {
+            "line": "purpleline",
+            "station_node": "Mailasandra",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Jnanabharathi",
+            "weight": 4.0
+        }
+    ],
+    "Pattanduru Agrahara": [
+        {
+            "line": "purpleline",
+            "station_node": "Sadaramangala",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Kadugodi Industrial Area",
+            "weight": 4.0
+        }
+    ],
+    "Peenya": [
+        {
+            "line": "greenline",
+            "station_node": "Peenya Industry",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Goraguntepalya",
+            "weight": 4.0
+        }
+    ],
+    "Peenya Industry": [
+        {
+            "line": "greenline",
+            "station_node": "Jalahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Peenya",
+            "weight": 4.0
+        }
+    ],
+    "Pottery Town": [
+        {
+            "line": "pinkline",
+            "station_node": "Tannery Road",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Cantonment",
+            "weight": 4.0
+        }
+    ],
+    "Ragigudda": [
+        {
+            "line": "yellowline",
+            "station_node": "Rashtriya Vidhyalaya Road (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Jayadeva (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Rajajinagar": [
+        {
+            "line": "greenline",
+            "station_node": "Mahalaxmi",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Kuvempu Road",
+            "weight": 4.0
+        }
+    ],
+    "Rajarajeshwari Nagar": [
+        {
+            "line": "purpleline",
+            "station_node": "Jnanabharathi",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Nayandahalli",
+            "weight": 4.0
+        }
+    ],
+    "Rashtriya Military School": [
+        {
+            "line": "pinkline",
+            "station_node": "Mahatma Gandhi Road (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Langford Town",
+            "weight": 4.0
+        }
+    ],
+    "Rashtriya Vidhyalaya Road (intersection)": [
+        {
+            "line": "greenline",
+            "station_node": "Jayanagar",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Banashankari",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "Ragigudda",
+            "weight": 4.0
+        }
+    ],
+    "Sadaramangala": [
+        {
+            "line": "purpleline",
+            "station_node": "Nallurahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Pattanduru Agrahara",
+            "weight": 4.0
+        }
+    ],
+    "Sandal Soap Factory": [
+        {
+            "line": "greenline",
+            "station_node": "Yeshwantpur",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Mahalaxmi",
+            "weight": 4.0
+        }
+    ],
+    "SaraswathiNagar": [
+        {
+            "line": "blueline",
+            "station_node": "Krishnaraja Puram (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "DRDO - Sports Complex",
+            "weight": 4.0
+        }
+    ],
+    "Shivajinagar": [
+        {
+            "line": "pinkline",
+            "station_node": "Cantonment",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Mahatma Gandhi Road (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Singasandra": [
+        {
+            "line": "yellowline",
+            "station_node": "Kudlu gate",
+            "weight": 4.0
+        },
+        {
+            "line": "yellowline",
+            "station_node": "HosaRoad",
+            "weight": 4.0
+        }
+    ],
+    "Sir M Visveswaraya Central College": [
+        {
+            "line": "purpleline",
+            "station_node": "Nadaprabhu Kempe Gowda Majestic (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Dr. B R Ambedkar Vidhana Soudha",
+            "weight": 4.0
+        }
+    ],
+    "Sitarama Palya": [
+        {
+            "line": "purpleline",
+            "station_node": "Hoodi Junction",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Kunalahalli",
+            "weight": 4.0
+        }
+    ],
+    "South End Circle": [
+        {
+            "line": "greenline",
+            "station_node": "Lalbagh",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Jayanagar",
+            "weight": 4.0
+        }
+    ],
+    "Srirampura": [
+        {
+            "line": "greenline",
+            "station_node": "Kuvempu Road",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Mantri Square Sampige Road",
+            "weight": 4.0
+        }
+    ],
+    "Swami Vivekananda Road": [
+        {
+            "line": "purpleline",
+            "station_node": "Indiranagar",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Baiyyappanahalli",
+            "weight": 4.0
+        }
+    ],
+    "Tannery Road": [
+        {
+            "line": "pinkline",
+            "station_node": "Venkateshapura",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Pottery Town",
+            "weight": 4.0
+        }
+    ],
+    "Tavarekere": [
+        {
+            "line": "pinkline",
+            "station_node": "Dairy Circle",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Jayadeva (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Thalaghattapura": [
+        {
+            "line": "greenline",
+            "station_node": "Vajrahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Anjanapura",
+            "weight": 4.0
+        }
+    ],
+    "Trinity": [
+        {
+            "line": "purpleline",
+            "station_node": "Mahatma Gandhi Road (intersection)",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "Halasuru",
+            "weight": 4.0
+        }
+    ],
+    "Vajrahalli": [
+        {
+            "line": "greenline",
+            "station_node": "Doddakallasandra",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Thalaghattapura",
+            "weight": 4.0
+        }
+    ],
+    "Veeranna Palya": [
+        {
+            "line": "blueline",
+            "station_node": "Kempapura",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Nagawara (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Venkatapura": [
+        {
+            "line": "blueline",
+            "station_node": "Agara Lake",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Central Silk Board (intersection)",
+            "weight": 4.0
+        }
+    ],
+    "Venkateshapura": [
+        {
+            "line": "pinkline",
+            "station_node": "Kadugondanahalli",
+            "weight": 4.0
+        },
+        {
+            "line": "pinkline",
+            "station_node": "Tannery Road",
+            "weight": 4.0
+        }
+    ],
+    "Vijayanagar": [
+        {
+            "line": "purpleline",
+            "station_node": "Attiguppe",
+            "weight": 4.0
+        },
+        {
+            "line": "purpleline",
+            "station_node": "BSG Hosahalli",
+            "weight": 4.0
+        }
+    ],
+    "Whitefield": [
+        {
+            "line": "purpleline",
+            "station_node": "Channasandra",
+            "weight": 4.0
+        }
+    ],
+    "Yelachenahalli": [
+        {
+            "line": "greenline",
+            "station_node": "Jayaprakash Nagar",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Konanakunte Cross",
+            "weight": 4.0
+        }
+    ],
+    "Yelahanka": [
+        {
+            "line": "blueline",
+            "station_node": "Bagalur Cross",
+            "weight": 4.0
+        },
+        {
+            "line": "blueline",
+            "station_node": "Jakkuru Cross",
+            "weight": 4.0
+        }
+    ],
+    "Yeshwantpur": [
+        {
+            "line": "greenline",
+            "station_node": "Goraguntepalya",
+            "weight": 4.0
+        },
+        {
+            "line": "greenline",
+            "station_node": "Sandal Soap Factory",
+            "weight": 4.0
+        }
+    ]
+}

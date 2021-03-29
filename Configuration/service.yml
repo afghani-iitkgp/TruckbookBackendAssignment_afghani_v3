@@ -1,0 +1,18 @@
+service_name: truckbook_backend_v1
+log_level: DEBUG
+
+settings:
+  ip: 0.0.0.0
+  port: 5011
+
+path:
+  log_path: "./var"
+
+
+postgres_credentials:
+  'host': '127.0.0.1'
+  'database': "truckbook_database_v1"
+  'user': "postgres"
+  'password': "Abcd@1234"
+
+'SECRET_KEY': '1234'
