@@ -1,6 +1,16 @@
 # **TruckbookBackendAssignment_githubrepo**
-Namma Metro (Bangalore Metro), how to reach your destination with minimum time and cost.
-To run the project:
+**Namma Metro** 
+Bengaluru Metro Rail Corporation Limited (BMRCL), a joint venture of Government of India and the State Government of Karnataka, is the agency for building, operating and expanding the
+Namma Metro network. The metro connects all prominent places in the city. The metro consists of 5 lanes each indicated by the color as shown in the below map.how to reach your destination with minimum time and cost.
+
+**Objective:**
+Develop RESTful APIs using that can be utilized by mobile and web applications. The applications will satisfy the following user stories:
+● User should be able to login or sign up using his phone number (no OTP or verification code required).
+● User should be able to see the list of all stations for each Line.
+● User should be able to choose starting and ending stations, to get the cost and minimum possible time of journey. 
+
+
+**To run the project:**
 Go to project directory and then run:
 1) python3 run_flasked_api.py
       OR
