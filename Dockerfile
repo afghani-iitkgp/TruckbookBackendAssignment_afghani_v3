@@ -1,23 +1,16 @@
-FROM ubuntu:18.04
-LABEL "afghaniiit@gmail.com"
-# RUN apk add --no-cache python3 openssl ca-certificates git openssh sshpass \
-#     && apk --update add --virtual build-dependencies python3-dev libffi-dev openssl-dev build-base \
-#     && pip3 install --upgrade pip cffi
+FROM python:3.7-alpine
 
 
-RUN apt-get update -y \
-    && apt-get upgrade -y \
-    && apt-get install -y python3-pip \
-    && apt-get install -y python3.7 \
-#     && apt install -y python3 \
-    && apt install python3-venv -y \
-    && python3 -m venv venv \
-    && pip3 install --upgrade pip \
-    && rm -rf /var/lib/apt/lists/*
+ENV PYTHONUNBUFFERED=1
 
+RUN apk add build-base
+RUN apk update && apk add postgresql-dev gcc python3-dev musl-dev
+# RUN apk add --update --no-cache python3 && ln -sf python3 /usr/bin/python
+RUN python3 -m ensurepip
+RUN pip3 install --no-cache --upgrade pip setuptools
 
-WORKDIR /docker_app
-COPY . /docker_app
+WORKDIR /app
+COPY . /app
 
 RUN pip3 --no-cache-dir install -r ./Configuration/requirements.txt
 
